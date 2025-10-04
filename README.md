@@ -46,7 +46,7 @@ Final-year Computer Science student passionate about **scalable software** and *
 - Email: [reetupailla@gmail.com](mailto:reetupailla@gmail.com)  
 - LinkedIn: [linkedin.com/in/reetupailla](https://www.linkedin.com/in/reetupailla)  
 - GitHub: [github.com/reetupailla](https://github.com/reetupailla)  
-## Hi there 👋
+
 
 <!--
 **ReetuPailla/ReetuPailla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

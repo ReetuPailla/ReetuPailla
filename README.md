@@ -1,7 +1,7 @@
 # 👩‍💻 Reetu Pailla — Passionate AI/ML Engineer | Final-Year CS Student
 
 📍 Hyderabad, India  
-📧 [reetupailla@gmail.com](mailto:reetupailla@gmail.com)  
+📧 [reetupailla@gmail.com](mailto:reetupailla03@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/reetupailla) | [GitHub](https://github.com/reetupailla)
 
 ---
@@ -43,7 +43,7 @@ Final-year Computer Science student passionate about **scalable software** and *
 ---
 
 ## 📫 Contact
-- Email: [reetupailla@gmail.com](mailto:reetupailla@gmail.com)  
+- Email: [reetupailla03@gmail.com](mailto:reetupailla03@gmail.com)  
 - LinkedIn: [linkedin.com/in/reetupailla](https://www.linkedin.com/in/reetupailla)  
 - GitHub: [github.com/reetupailla](https://github.com/reetupailla)  
 

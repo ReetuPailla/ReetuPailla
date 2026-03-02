@@ -12,7 +12,7 @@ Final-year Computer Science student passionate about **scalable software** and *
 ---
 
 ## 📄 Resume
-- [Resume (PDF)](resume/ReetuPaillaaa.pdf)  
+- [Resume (PDF)](resume/(Reetu).pdf)  
  
 
 ---

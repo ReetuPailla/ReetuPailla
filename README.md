@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Reetu Pailla
 
-### Final-Year Computer Science Student | Software Engineer
+### Final-Year Computer Science Student | Software Engineering & Distributed Systems
 
 📍 Hyderabad, India
 📧 [reetupailla03@gmail.com](mailto:reetupailla03@gmail.com)

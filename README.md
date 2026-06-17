@@ -2,9 +2,7 @@
 
 ### Final-Year Computer Science Student | Software Engineering & Distributed Systems
 
-📍 Hyderabad, India
-
-📧 [Email](mailto:reetupailla03@gmail.com) • 🔗 [LinkedIn](https://linkedin.com/in/reetupailla) • 💻 [GitHub](https://github.com/reetupailla) • 📄 [Resume](resume/Reetu_Pailla_Resume.pdf)
+📍 Hyderabad, India | 📧 [reetupailla03@gmail.com](mailto:reetupailla03@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/reetupailla) | 💻 [GitHub](https://github.com/reetupailla) | 📄 [Resume](resume/Reetu_Pailla_Resume.pdf)
 ---
 
 ## 🚀 About Me

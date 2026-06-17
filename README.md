@@ -4,18 +4,17 @@
 
 📍 Hyderabad, India
 📧 [reetupailla03@gmail.com](mailto:reetupailla03@gmail.com)
-🔗 LinkedIn: https://linkedin.com/in/reetupailla
-💻 GitHub: https://github.com/reetupailla
-
-📄 **Resume:** [View Resume](resume/{ReetuPailla}.pdf)
+🔗 [LinkedIn](https://linkedin.com/in/reetupailla)
+💻 [GitHub](https://github.com/reetupailla)
+📄 [Resume](resume/Reetu_Pailla_Resume.pdf)
 
 ---
 
 ## 🚀 About Me
 
-Final-year Computer Science student passionate about building scalable software systems, backend applications, distributed systems, networking, Linux, and infrastructure automation.
+Final-year Computer Science student with strong foundations in Data Structures, Algorithms, Operating Systems, Networking, and Distributed Systems.
 
-I enjoy solving complex engineering problems and developing reliable tools that improve performance, observability, and developer productivity.
+I enjoy building scalable backend systems, automation tools, and cloud-native applications. My experience spans Linux systems, network automation, backend development, and infrastructure observability using modern DevOps practices.
 
 ---
 
@@ -23,9 +22,9 @@ I enjoy solving complex engineering problems and developing reliable tools that 
 
 **Languages:** C, C++, Python, Java, Bash, Go
 
-**Systems & Networking:** Linux, TCP/IP, VLANs, Routing, Multithreading, Process Management, Network Troubleshooting
-
 **Backend:** Spring Boot, Flask, REST APIs, WebSockets
+
+**Systems & Networking:** Linux, TCP/IP, VLANs, Routing, Multithreading, Network Troubleshooting
 
 **Cloud & DevOps:** Docker, Kubernetes, Jenkins, Prometheus, Grafana
 
@@ -39,26 +38,39 @@ I enjoy solving complex engineering problems and developing reliable tools that 
 
 ### 🔹 Network Testbed Builder & Failure Injection System
 
-* Built a Docker-based leaf-spine network topology with automated deployment.
-* Implemented L2/L3 validation and failure injection workflows.
-* Integrated Prometheus and Grafana for monitoring and observability.
+**Python · Docker · Linux · Prometheus · Grafana**
+
+* Built an automated leaf-spine network topology deployment framework.
+* Implemented L2/L3 validation, fault injection, and recovery testing.
+* Integrated observability dashboards and automated reporting.
+
+🔗 Repository: [Network Testbed Builder](YOUR_REPO_LINK)
 
 ### 🔹 Embedded IoT System
 
+**C · Linux · Bash · System Programming**
+
 * Simulated embedded Linux board bring-up and firmware validation.
-* Developed boot log analysis and system health monitoring tools.
-* Automated testing using Python and pytest.
+* Developed boot-log analysis and resource monitoring modules.
+* Automated validation workflows using Python and pytest.
+
+🔗 Repository: [Embedded IoT System](YOUR_REPO_LINK)
 
 ### 🔹 Relay Chat Platform
 
-* Developed a real-time chat application using React, Node.js, and WebSockets.
-* Implemented user presence tracking and low-latency messaging.
+**React · Node.js · Express · WebSockets**
+
+* Developed a real-time chat platform with low-latency messaging.
+* Implemented presence tracking and event-driven communication.
+* Designed a responsive frontend and scalable backend architecture.
+
+🔗 Repository: [Relay Chat Platform](YOUR_REPO_LINK)
 
 ---
 
 ## 🏆 Achievements
 
-* 🥇 Top 50 Finalist — BITS Pilani National Hackathon
+* 🏅 Top 50 Finalist — BITS Pilani National Hackathon
 * 🏅 Best Project Presentation Award — Face Recognition Attendance System
 * ☁️ AWS Certified Cloud Practitioner
 * 🌐 CCNA 200-301 Certified
@@ -66,17 +78,8 @@ I enjoy solving complex engineering problems and developing reliable tools that 
 
 ---
 
-## 📚 Relevant Coursework
+### 💡 Interests
 
-Data Structures, Algorithms, Operating Systems, Distributed Systems, Networking & TCP/IP, Database Management Systems, Artificial Intelligence, Web Development
+Software Engineering • Backend Development • Distributed Systems • Linux • Networking • Cloud Infrastructure • Automation
 
----
-
-## 📫 Connect With Me
-
-* LinkedIn: https://linkedin.com/in/reetupailla
-* GitHub: https://github.com/reetupailla
-* Email: [reetupailla03@gmail.com](mailto:reetupailla03@gmail.com)
-
-⭐ Interested in Software Engineering, Backend Systems, Linux, Networking, and Distributed Systems.
 

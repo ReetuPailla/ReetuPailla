@@ -1,64 +1,158 @@
-# 👩‍💻 Reetu Pailla — Passionate AI/ML Engineer | Final-Year CS Student
+# 👋 Hi, I'm Reetu Pailla
 
-📍 Hyderabad, India  
-📧 [reetupailla@gmail.com](mailto:reetupailla03@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/reetupailla) | [GitHub](https://github.com/reetupailla)
+### Final-Year Computer Science Student | Software Engineer Aspirant
+
+📍 Hyderabad, India
+📧 [reetupailla03@gmail.com](mailto:reetupailla03@gmail.com)
+🔗 LinkedIn: https://www.linkedin.com/in/reetupailla
+💻 GitHub: https://github.com/reetupailla
 
 ---
 
 ## 🚀 About Me
-Final-year Computer Science student passionate about **scalable software** and **AI-driven solutions**. Skilled in **Python, GenAI, Retrieval-Augmented Generation (RAG), and MLOps**, with experience deploying ML pipelines on cloud-native environments. Quick learner with strong problem-solving and teamwork skills.
+
+I'm a final-year Computer Science student passionate about building scalable software systems, backend applications, and infrastructure automation tools.
+
+My interests include distributed systems, networking, Linux, backend development, cloud technologies, and system reliability. I enjoy solving complex engineering problems and developing tools that improve performance, automation, and developer productivity.
 
 ---
 
-## 📄 Resume
-- [Resume (PDF)](resume/(Reetu).pdf)  
- 
+## 🎓 Education
+
+**Keshav Memorial Institute of Technology (KMIT)**
+Bachelor of Technology in Computer Science
+CGPA: **8.3/10**
+2022 – 2026
 
 ---
 
 ## 🛠 Technical Skills
-- **Languages**: Python, C, C++, Java, SQL, HTML/CSS, JavaScript  
-- **Frameworks / Tools**: TensorFlow, PyTorch, HuggingFace, FastAPI, React.js, Node.js, Flask, scikit-learn, Docker, Kubernetes, Jenkins  
-- **Systems & Platforms**: Linux, Distributed Systems, GCP, AWS, Tableau, GitHub, Jupyter Notebook  
+
+### Languages
+
+* C
+* C++
+* Python
+* Java
+* Bash
+* Go
+
+### Linux & Systems
+
+* Linux
+* Shell Scripting
+* Multithreading
+* Process Management
+* Memory Management Concepts
+
+### Networking
+
+* TCP/IP
+* VLANs
+* Routing
+* Linux Networking Tools
+* Network Troubleshooting
+
+### Backend & APIs
+
+* Spring Boot
+* Flask
+* REST APIs
+* WebSocket
+
+### Automation & Testing
+
+* pytest
+* Python Automation
+* Regression Testing
+* Jenkins
+* CI/CD
+
+### Cloud & DevOps
+
+* Docker
+* Kubernetes
+* Prometheus
+* Grafana
+
+### Databases
+
+* MongoDB
+* PostgreSQL
+* MySQL
 
 ---
 
 ## 📂 Featured Projects
-| Project | Tech Stack | Highlights |
-|---|---|---|
-| [Scalable ML Pipeline](projects/scalable-ml-pipeline) | Python, C++, TensorFlow, Kubernetes, Jenkins, AWS | Built distributed pipeline for IoT anomaly detection with 3× throughput and automated retraining |
-| [Distributed Data Processing Pipeline](projects/distributed-etl) | Python, C++, SQL, Linux | Parallelized ETL reducing runtime by 50% |
-| [Intelligent Document Q&A System](projects/intelligent-doc-qa) | FastAPI, HuggingFace, FAISS, React.js | RAG pipeline answering natural language queries from PDFs, latency reduced by 35% |
-| [Face Recognition Attendance System](projects/face-recognition) | OpenCV, Python | Awarded *Best Project Presentation* at KMIT |
+
+### 🔹 Network Testbed Builder & Failure Injection System
+
+**Python • Docker • Linux • Prometheus • Grafana**
+
+* Built a Docker-based leaf-spine network topology.
+* Automated L2/L3 connectivity validation with PASS/FAIL reporting.
+* Implemented network fault injection and recovery testing.
+* Generated HTML-based network analysis reports.
+* Integrated Prometheus and Grafana for observability.
+
+---
+
+### 🔹 Embedded IoT System
+
+**C • Linux • Bash • System Programming**
+
+* Simulated embedded Linux board bring-up workflows.
+* Built boot log analysis for kernel panic detection.
+* Developed CPU and memory monitoring modules.
+* Automated validation using Python and pytest.
+* Generated system health and performance reports.
+
+---
+
+### 🔹 Relay Chat Platform
+
+**React • Node.js • Express • WebSockets**
+
+* Developed a real-time chat application.
+* Implemented user presence tracking.
+* Built scalable message routing using WebSockets.
+* Designed responsive frontend using React.
+* Optimized low-latency communication.
 
 ---
 
 ## 🏆 Achievements
-- **Top 50 finalist** — BITS Pilani Hackathon (AI Automation, 22 hours)  
-- **2nd Place** — Web Dev Hackathon (built full-stack app in 24 hours)  
-- **AWS Cloud Practitioner Certified**  
-- **Salesforce Trailhead Superbadges** (Admin Beginner, Automation, Data Mgmt, Customization)  
+
+* Top 50 Finalist – BITS Pilani National Hackathon
+* Best Project Presentation Award – Face Recognition Attendance System
+* AWS Certified Cloud Practitioner
+* CCNA 200-301 Certified
+* Salesforce Trailhead Superbadges
 
 ---
 
-## 📫 Contact
-- Email: [reetupailla03@gmail.com](mailto:reetupailla03@gmail.com)  
-- LinkedIn: [linkedin.com/in/reetupailla](https://www.linkedin.com/in/reetupailla)  
-- GitHub: [github.com/reetupailla](https://github.com/reetupailla)  
+## 📚 Relevant Coursework
 
+* Data Structures
+* Algorithms
+* Operating Systems
+* Distributed Systems
+* Networking & TCP/IP
+* Database Management Systems
+* Artificial Intelligence
+* Web Development
 
-<!--
-**ReetuPailla/ReetuPailla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📫 Connect With Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 Email: [reetupailla03@gmail.com](mailto:reetupailla03@gmail.com)
+
+💼 LinkedIn: https://www.linkedin.com/in/reetupailla
+
+💻 GitHub: https://github.com/reetupailla
+
+---
+
+⭐ Always interested in Software Engineering, Backend Systems, Linux, Networking, and Distributed Systems.
+

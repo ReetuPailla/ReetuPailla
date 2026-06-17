@@ -1,85 +1,37 @@
 # 👋 Hi, I'm Reetu Pailla
 
-### Final-Year Computer Science Student | Software Engineer Aspirant
+### Final-Year Computer Science Student | Software Engineer
 
 📍 Hyderabad, India
 📧 [reetupailla03@gmail.com](mailto:reetupailla03@gmail.com)
-🔗 LinkedIn: https://www.linkedin.com/in/reetupailla
+🔗 LinkedIn: https://linkedin.com/in/reetupailla
 💻 GitHub: https://github.com/reetupailla
+
+📄 **Resume:** [View Resume](resume/{ReetuPailla}.pdf)
 
 ---
 
 ## 🚀 About Me
 
-I'm a final-year Computer Science student passionate about building scalable software systems, backend applications, and infrastructure automation tools.
+Final-year Computer Science student passionate about building scalable software systems, backend applications, distributed systems, networking, Linux, and infrastructure automation.
 
-My interests include distributed systems, networking, Linux, backend development, cloud technologies, and system reliability. I enjoy solving complex engineering problems and developing tools that improve performance, automation, and developer productivity.
-
----
-
-## 🎓 Education
-
-**Keshav Memorial Institute of Technology (KMIT)**
-Bachelor of Technology in Computer Science
-CGPA: **8.3/10**
-2022 – 2026
+I enjoy solving complex engineering problems and developing reliable tools that improve performance, observability, and developer productivity.
 
 ---
 
-## 🛠 Technical Skills
+## 🛠 Tech Stack
 
-### Languages
+**Languages:** C, C++, Python, Java, Bash, Go
 
-* C
-* C++
-* Python
-* Java
-* Bash
-* Go
+**Systems & Networking:** Linux, TCP/IP, VLANs, Routing, Multithreading, Process Management, Network Troubleshooting
 
-### Linux & Systems
+**Backend:** Spring Boot, Flask, REST APIs, WebSockets
 
-* Linux
-* Shell Scripting
-* Multithreading
-* Process Management
-* Memory Management Concepts
+**Cloud & DevOps:** Docker, Kubernetes, Jenkins, Prometheus, Grafana
 
-### Networking
+**Databases:** MongoDB, PostgreSQL, MySQL
 
-* TCP/IP
-* VLANs
-* Routing
-* Linux Networking Tools
-* Network Troubleshooting
-
-### Backend & APIs
-
-* Spring Boot
-* Flask
-* REST APIs
-* WebSocket
-
-### Automation & Testing
-
-* pytest
-* Python Automation
-* Regression Testing
-* Jenkins
-* CI/CD
-
-### Cloud & DevOps
-
-* Docker
-* Kubernetes
-* Prometheus
-* Grafana
-
-### Databases
-
-* MongoDB
-* PostgreSQL
-* MySQL
+**Testing & Automation:** pytest, CI/CD, Python Automation, Regression Testing
 
 ---
 
@@ -87,72 +39,44 @@ CGPA: **8.3/10**
 
 ### 🔹 Network Testbed Builder & Failure Injection System
 
-**Python • Docker • Linux • Prometheus • Grafana**
-
-* Built a Docker-based leaf-spine network topology.
-* Automated L2/L3 connectivity validation with PASS/FAIL reporting.
-* Implemented network fault injection and recovery testing.
-* Generated HTML-based network analysis reports.
-* Integrated Prometheus and Grafana for observability.
-
----
+* Built a Docker-based leaf-spine network topology with automated deployment.
+* Implemented L2/L3 validation and failure injection workflows.
+* Integrated Prometheus and Grafana for monitoring and observability.
 
 ### 🔹 Embedded IoT System
 
-**C • Linux • Bash • System Programming**
-
-* Simulated embedded Linux board bring-up workflows.
-* Built boot log analysis for kernel panic detection.
-* Developed CPU and memory monitoring modules.
-* Automated validation using Python and pytest.
-* Generated system health and performance reports.
-
----
+* Simulated embedded Linux board bring-up and firmware validation.
+* Developed boot log analysis and system health monitoring tools.
+* Automated testing using Python and pytest.
 
 ### 🔹 Relay Chat Platform
 
-**React • Node.js • Express • WebSockets**
-
-* Developed a real-time chat application.
-* Implemented user presence tracking.
-* Built scalable message routing using WebSockets.
-* Designed responsive frontend using React.
-* Optimized low-latency communication.
+* Developed a real-time chat application using React, Node.js, and WebSockets.
+* Implemented user presence tracking and low-latency messaging.
 
 ---
 
 ## 🏆 Achievements
 
-* Top 50 Finalist – BITS Pilani National Hackathon
-* Best Project Presentation Award – Face Recognition Attendance System
-* AWS Certified Cloud Practitioner
-* CCNA 200-301 Certified
-* Salesforce Trailhead Superbadges
+* 🥇 Top 50 Finalist — BITS Pilani National Hackathon
+* 🏅 Best Project Presentation Award — Face Recognition Attendance System
+* ☁️ AWS Certified Cloud Practitioner
+* 🌐 CCNA 200-301 Certified
+* 🚀 Salesforce Trailhead Superbadges
 
 ---
 
 ## 📚 Relevant Coursework
 
-* Data Structures
-* Algorithms
-* Operating Systems
-* Distributed Systems
-* Networking & TCP/IP
-* Database Management Systems
-* Artificial Intelligence
-* Web Development
+Data Structures, Algorithms, Operating Systems, Distributed Systems, Networking & TCP/IP, Database Management Systems, Artificial Intelligence, Web Development
 
 ---
 
 ## 📫 Connect With Me
 
-📧 Email: [reetupailla03@gmail.com](mailto:reetupailla03@gmail.com)
+* LinkedIn: https://linkedin.com/in/reetupailla
+* GitHub: https://github.com/reetupailla
+* Email: [reetupailla03@gmail.com](mailto:reetupailla03@gmail.com)
 
-💼 LinkedIn: https://www.linkedin.com/in/reetupailla
-
-💻 GitHub: https://github.com/reetupailla
-
----
-
-⭐ Always interested in Software Engineering, Backend Systems, Linux, Networking, and Distributed Systems.
+⭐ Interested in Software Engineering, Backend Systems, Linux, Networking, and Distributed Systems.
 
